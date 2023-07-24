@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Arban19
-- 👀 I’m interested in stock, geopolitics, arsenal fc, taxation.
+- 👋 Hello world, I’m @Arban19
+- 👀 I’m interested in stocks, geopolitics, arsenal fc, taxation law.
 - 🌱 I’m currently learning python & power BI
